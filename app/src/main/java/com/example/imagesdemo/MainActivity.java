@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity
     {
         ImageView image = (ImageView) findViewById(R.id.catImage);
         image.setImageResource(R.drawable.new_tiger);
-        Log.i("Info", "It worked");
+
     }
 
 
